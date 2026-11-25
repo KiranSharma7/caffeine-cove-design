@@ -1,0 +1,7 @@
+# Only DESIGN.md and site/assets are tracked
+/*
+!/.gitignore
+!/DESIGN.md
+!/site/
+/site/*
+!/site/assets/
